@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 127.0.0.1:9878; SOCKS 127.0.0.1:9878; DIRECT;';
+var proxy = 'PROXY localhost:9876; DIRECT;';
 var rules = [
     [
         [],
